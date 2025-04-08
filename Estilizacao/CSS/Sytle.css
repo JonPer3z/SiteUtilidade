@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    height: 100dvh;
+    background-color: #f2f0ef;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10%;
+    background-color: white;
+}
+
+.tratamentoLink {
+    text-decoration: none;
+    color:inherit;
+}
+
+#LogoEmpresa {
+    height: 220%;
+    border: 1px solid #000;  
+}
+
+#LogoLogin {
+    height: 30%;
+}
+
